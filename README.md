@@ -1,5 +1,80 @@
  # DailyResearchPaper
 
+## 25 April 2023
+
+#### A Cookbook of Self-Supervised Learning
+
+- Arxiv : https://arxiv.org/pdf/2304.12210.pdf
+
+- Github : -
+
+#### Meta-tuning Loss Functions and Data Augmentation for Few-shot Object Detection
+
+- Arxiv : https://arxiv.org/pdf/2304.12161.pdf
+
+- Github : -
+
+#### GRIG: Few-Shot Generative Residual Image Inpainting
+
+- Arxiv : https://arxiv.org/pdf/2304.12035.pdf
+
+- Github : -
+
+#### Track Anything: Segment Anything Meets Videos
+
+- Arxiv : https://arxiv.org/pdf/2304.11968.pdf
+
+- Github : https://github.com/gaomingqi/Track-Anything
+
+
+#### Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving
+
+- Arxiv : https://arxiv.org/pdf/2304.11928.pdf
+
+- Github : -
+
+
+#### ICDAR 2023 Competition on Reading the Seal Title
+
+- Arxiv : https://arxiv.org/pdf/2304.11966.pdf
+
+- Github : -
+
+
+#### Segment Anything in Medical Images
+
+- Arxiv : https://arxiv.org/pdf/2304.12306.pdf
+
+- Github : https://github.com/bowang-lab/MedSAM
+
+
+#### Advances in Deep Concealed Scene Understanding
+
+- Arxiv : https://arxiv.org/pdf/2304.11234.pdf
+
+- Github : https://github.com/DengPingFan/CSU
+
+
+#### OmniLabel: A Challenging Benchmark for Language-Based Object Detection
+
+- Arxiv : https://arxiv.org/pdf/2304.11463.pdf
+
+- Github : https://www.omnilabel.org/
+
+
+#### AirBirds: A Large-scale Challenging Dataset for Bird Strike Prevention in Real-world Airports
+
+- Arxiv : https://arxiv.org/pdf/2304.11662.pdf
+
+- Github : https://airbirdsdata.github.io/
+
+## 24 April 2023
+
+#### Factored Neural Representation for Scene Understanding
+
+- Arxiv : https://arxiv.org/pdf/2304.10950.pdf
+
+- Github : https://yushiangw.github.io/factorednerf/
 
 ## 19 April 2023
 
