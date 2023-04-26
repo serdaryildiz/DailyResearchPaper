@@ -1,5 +1,34 @@
  # DailyResearchPaper
 
+## 26 April 2023
+
+#### A Strong and Reproducible Object Detector with Only Public Datasets
+
+- Arxiv : https://arxiv.org/pdf/2304.13027.pdf
+
+- Github : https://github.com/IDEA-Research/Stable-DINO
+
+
+#### DocParser: End-to-end OCR-free Information Extraction from Visually Rich Documents
+
+- Arxiv : https://arxiv.org/pdf/2304.12484.pdf
+
+- Github : https://datalab-groupe.github.io/
+
+
+#### TensoIR: Tensorial Inverse Rendering
+
+- Arxiv : https://arxiv.org/pdf/2304.12461.pdf
+
+- Github : https://haian-jin.github.io/TensoIR/
+
+
+#### Docmarking: Real-Time Screen-Cam Robust Document Image Watermarking
+
+- Arxiv : https://arxiv.org/pdf/2304.12682.pdf
+
+- Github : -
+
 ## 25 April 2023
 
 #### A Cookbook of Self-Supervised Learning
