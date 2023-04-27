@@ -1,5 +1,26 @@
  # DailyResearchPaper
 
+## 27 April 2023
+
+#### EasyPortrait – Face Parsing and Portrait Segmentation Dataset
+
+- Arxiv : https://arxiv.org/pdf/2304.13509.pdf
+
+- Github : https://anonymous.4open.science/r/anonymous-dataset-pep8/README.md
+
+
+#### CLUSTER ENTROPY: ACTIVE DOMAIN ADAPTATION IN PATHOLOGICAL IMAGE SEGMENTATION
+
+- Arxiv : https://arxiv.org/pdf/2304.13513.pdf
+
+- Github : -
+
+#### Development of a Realistic Crowd Simulation Environment for Fine-grained Validation of People Tracking Methods
+
+- Arxiv : https://arxiv.org/pdf/2304.13403.pdf
+
+- Github : -
+
 ## 26 April 2023
 
 #### A Strong and Reproducible Object Detector with Only Public Datasets
