@@ -1,5 +1,38 @@
  # DailyResearchPaper
 
+## 8 May 2023
+
+#### Cola: How to adapt vision-language models to Compose Objects Localized with Attributes?
+
+- Arxiv : https://arxiv.org/pdf/2305.03689.pdf
+
+- Github : -
+
+
+#### Semantic Segmentation using Vision Transformers: A survey
+
+- Arxiv : https://arxiv.org/pdf/2305.03273.pdf
+
+- Github : -
+
+#### How Segment Anything Model (SAM) Boost Medical Image Segmentation?
+
+- Arxiv : https://github.com/YichiZhang98/SAM4MIS
+
+- Github : -
+
+#### Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review
+
+- Arxiv : https://arxiv.org/pdf/2305.03546.pdf
+
+- Github : https://bci.grand-challenge.org/
+
+#### AttentionViz: A Global View of Transformer Attention
+
+- Arxiv : https://arxiv.org/pdf/2305.03210.pdf
+
+- Github : http://attentionviz.com/
+
 ## 27 April 2023
 
 #### EasyPortrait – Face Parsing and Portrait Segmentation Dataset
