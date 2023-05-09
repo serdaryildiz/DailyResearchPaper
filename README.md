@@ -1,5 +1,84 @@
  # DailyResearchPaper
 
+## 9 May 2023
+
+#### IIITD-20K: Dense captioning for Text-Image ReID
+
+- Arxiv : https://arxiv.org/pdf/2305.04497.pdf
+
+- Github : https://drive.google.com/file/d/1oG0a4WQfkEeL_NKajtMQvY4yFnZ5jDJ8/view
+
+#### DocDiff: Document Enhancement via Residual Diffusion Models
+
+- Arxiv : https://arxiv.org/pdf/2305.03892.pdf
+
+- Github : https://github.com/Royalvice/DocDiff
+
+
+#### Video Object Segmentation in Panoptic Wild Scenes
+
+- Arxiv : https://arxiv.org/pdf/2305.04470.pdf
+
+- Github : https://github.com/yoxu515/VIPOSeg-Benchmark
+
+
+#### Revisiting Table Detection Datasets for Visually Rich Documents
+
+- Arxiv : https://arxiv.org/pdf/2305.04833.pdf
+
+- Github : https://ieee-dataport.org/documents/table-detection-dataset-visually-rich-documents
+
+
+#### FEW SHOT LEARNING FOR MEDICAL IMAGING: A COMPARATIVE ANALYSIS OF METHODOLOGIES AND FORMAL MATHEMATICAL FRAMEWORK
+
+- Arxiv : https://arxiv.org/pdf/2305.04401.pdf
+
+- Github : -
+
+#### CatFLW: Cat Facial Landmarks in the Wild Dataset
+
+- Arxiv : https://arxiv.org/pdf/2305.04232.pdf
+
+- Github : -
+
+
+#### SwinDocSegmenter: An End-to-End Unified Domain Adaptive Transformer for Document Instance Segmentation
+
+- Arxiv : https://arxiv.org/pdf/2305.04609.pdf
+
+- Github : https://github.com/ayanban011/SwinDocSegmenter
+
+#### ElasticHash: Semantic Image Similarity Search by Deep Hashing with Elasticsearch
+
+- Arxiv : https://arxiv.org/pdf/2305.04710.pdf
+
+- Github : -
+
+#### Learning to Generate Poetic Chinese Landscape Painting with Calligraphy
+
+- Arxiv : https://arxiv.org/pdf/2305.04719.pdf
+
+- Github : -
+
+#### Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields
+
+- Arxiv : https://arxiv.org/pdf/2305.04722.pdf
+
+- Github : -
+
+#### AvatarReX: Real-time Expressive Full-body Avatars
+
+- Arxiv : https://arxiv.org/pdf/2305.04789.pdf
+
+- Github : -
+
+#### MultiModal-GPT: A Vision and Language Model for Dialogue with Humans
+
+- Arxiv : https://arxiv.org/pdf/2305.04790.pdf
+
+- Github : https://github.com/open-mmlab/Multimodal-GPT
+
+
 ## 8 May 2023
 
 #### Cola: How to adapt vision-language models to Compose Objects Localized with Attributes?
