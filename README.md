@@ -1,5 +1,56 @@
  # DailyResearchPaper
 
+
+## 10 May 2023
+
+#### WikiWeb2M: A Page-Level Multimodal Wikipedia Dataset
+
+- Arxiv : https://arxiv.org/pdf/2305.05432.pdf
+
+- Github : https://github.com/google-research-datasets/wit/blob/main/wikiweb2m.md
+
+
+#### Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition
+
+- Arxiv : https://arxiv.org/pdf/2305.05140.pdf
+
+- Github : https://github.com/CyrilSterling/LPV
+
+
+#### Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization
+
+- Arxiv : https://arxiv.org/pdf/2305.05301.pdf
+
+- Github : https://www.seanoe.org/data/00810/92226/
+
+
+#### TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition
+
+- Arxiv : https://arxiv.org/pdf/2305.05322.pdf
+
+- Github : https://github.com/simplify23/TPS_PP
+
+
+#### Restormer-Plus for Real World Image Deraining: One State-of-the-Art Solution to the GT-RAIN Challenge (CVPR 2023 UG2+ Track 3)
+
+- Arxiv : https://arxiv.org/pdf/2305.05454.pdf
+
+- Github : https://github.com/ZJLAB-AMMI/Restormer-Plus
+
+
+#### Real-time instance segmentation with polygons using an Intersection-over-Union loss
+
+- Arxiv : https://arxiv.org/pdf/2305.05490.pdf
+
+- Github : https://github.com/KatiaJDL/CenterPoly-v2
+
+
+#### GROUP ACTIVITY RECOGNITION VIA DYNAMIC COMPOSITION AND INTERACTION
+
+- Arxiv : https://arxiv.org/pdf/2305.05583.pdf
+
+- Github : -
+
 ## 9 May 2023
 
 #### IIITD-20K: Dense captioning for Text-Image ReID
