@@ -1,5 +1,32 @@
  # DailyResearchPaper
 
+## 15 May 2023
+
+#### Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution
+
+- Arxiv : https://arxiv.org/pdf/2305.07498.pdf
+
+- Github : https://github.com/jfkuang/CFAM
+
+#### The ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge 2023: Intracranial Meningioma
+
+- Arxiv : https://arxiv.org/pdf/2305.07642.pdf
+
+- Github : -
+
+## 12 May 2023
+
+#### Hyperbolic Deep Learning in Computer Vision: A Survey
+
+- Arxiv : https://arxiv.org/pdf/2305.06611.pdf
+
+- Github : -
+
+#### Segment and Track Anything
+
+- Arxiv : https://arxiv.org/pdf/2305.06558.pdf
+
+- Github : https://github.com/z-x-yang/Segment-and-Track-Anything
 
 ## 10 May 2023
 
