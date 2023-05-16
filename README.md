@@ -1,6 +1,37 @@
  # DailyResearchPaper
 
-## 15 May 2023
+## 16 May 2023
+
+#### ON THE HIDDEN MYSTERY OF OCR IN LARGE MULTIMODAL MODELS
+
+- Arxiv : https://arxiv.org/pdf/2305.07895.pdf
+
+- Github : https://github.com/Yuliang-Liu/MultimodalOCR
+
+#### PLIP: Language-Image Pre-training for Person Representation Learning
+
+- Arxiv : https://arxiv.org/pdf/2305.08386.pdf
+
+- Github : https://github.com/Zplusdragon/PLIP
+
+#### Document Understanding Dataset and Evaluation (DUDE )
+
+- Arxiv : https://arxiv.org/pdf/2305.08455.pdf
+
+- Github : -
+
+#### CLIP-VG: Self-paced Curriculum Adapting of CLIP via Exploiting Pseudo-Language Labels for Visual Grounding
+
+- Arxiv : https://arxiv.org/pdf/2305.08685.pdf
+
+- Github : https://github.com/linhuixiao/CLIP-VG
+
+#### M6Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis
+
+- Arxiv : https://arxiv.org/pdf/2305.08719.pdf
+
+- Github : https://github.com/HCIILAB/M6Doc
+
 
 #### Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution
 
