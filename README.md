@@ -1,4 +1,11 @@
  # DailyResearchPaper
+## 17 May 2023
+
+#### Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks
+
+- Arxiv : https://arxiv.org/pdf/2305.09666.pdf
+
+- Github : https://github.com/MrGiovanni/AbdomenAtlas
 
 ## 16 May 2023
 
