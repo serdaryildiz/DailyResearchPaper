@@ -1,4 +1,25 @@
  # DailyResearchPaper
+ 
+## 18 May 2023
+
+#### ICDAR 2023 Competition on Hierarchical Text Detection and Recognition
+
+- Arxiv : https://arxiv.org/pdf/2305.09750.pdf
+
+- Github : https://rrc.cvc.uab.es/?ch=18
+
+#### Variational Classification
+
+- Arxiv : https://arxiv.org/pdf/2305.10406.pdf
+
+- Github : https://github.com/shehzaadzd/variational-classification
+
+#### PromptUNet: Toward Interactive Medical Image Segmentation
+
+- Arxiv : https://arxiv.org/pdf/2305.10300.pdf
+
+- Github : https://github.com/WuJunde/PromptUNet
+
 ## 17 May 2023
 
 #### Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks
