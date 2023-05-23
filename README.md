@@ -1,5 +1,27 @@
  # DailyResearchPaper
  
+## 23 May 2023
+
+#### Materialistic: Selecting Similar Materials in Images
+
+- Arxiv : https://arxiv.org/pdf/2305.13291.pdf
+
+- Github : -
+
+
+#### Movie101: A New Movie Understanding Benchmark
+
+- Arxiv : https://arxiv.org/pdf/2305.12140.pdf
+
+- Github : https://github.com/yuezih/Movie101
+
+
+#### Productive Crop Field Detection: A New Dataset and Deep Learning Benchmark Results
+
+- Arxiv : https://arxiv.org/pdf/2305.11990.pdf
+
+- Github : https://github.com/egnascimento/productivefieldsdetection
+
 ## 18 May 2023
 
 #### ICDAR 2023 Competition on Hierarchical Text Detection and Recognition
