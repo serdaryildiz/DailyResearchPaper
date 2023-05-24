@@ -1,5 +1,42 @@
  # DailyResearchPaper
  
+## 24 May 2023
+
+#### DetGPT: Detect What You Need via Reasoning
+
+- Arxiv : https://arxiv.org/pdf/2305.14167.pdf
+
+- Github : https://detgpt.github.io/
+
+
+#### Perception Test: A Diagnostic Benchmark for Multimodal Video Models
+
+- Arxiv : https://arxiv.org/pdf/2305.13786.pdf
+
+- Github : https://github.com/deepmind/perception_test
+
+
+#### MIPI 2023 Challenge on Nighttime Flare Removal: Methods and Results
+
+- Arxiv : https://arxiv.org/pdf/2305.13770.pdf
+
+- Github : https://mipi-challenge.org/MIPI2023/
+
+
+#### MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change
+
+- Arxiv : https://arxiv.org/pdf/2305.13600.pdf
+
+- Github : -
+
+
+#### A Laplacian Pyramid Based Generative H&E Stain Augmentation Network
+
+- Arxiv : https://arxiv.org/pdf/2305.14301.pdf
+
+- Github : https://github.com/lifangda01/GSAN-Demo
+
+
 ## 23 May 2023
 
 #### Materialistic: Selecting Similar Materials in Images
