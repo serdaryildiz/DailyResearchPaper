@@ -1,5 +1,42 @@
  # DailyResearchPaper
  
+
+
+## 29 May 2023
+
+#### Mindstorms in Natural Language-Based Societies of Mind
+
+- Arxiv : https://arxiv.org/pdf/2305.17066.pdf
+
+- Github : -
+
+## 26 May 2023
+
+#### Break-A-Scene: Extracting Multiple Concepts from a Single Image
+
+- Arxiv : https://arxiv.org/pdf/2305.16311.pdf
+
+- Github : https://omriavrahami.com/break-a-scene/
+
+#### Making Vision Transformers Truly Shift-Equivariant
+
+- Arxiv : https://arxiv.org/pdf/2305.16316.pdf
+
+- Github : -
+
+#### CENSUS-HWR: a large training dataset for offline handwriting recognition
+
+- Arxiv : https://arxiv.org/pdf/2305.16275.pdf
+
+- Github : https://censustree.org/get_the_data.html
+
+#### CN-Celeb-AV: A Multi-Genre Audio-Visual Dataset for Person Recognition
+
+- Arxiv : https://arxiv.org/pdf/2305.16049.pdf
+
+- Github : http://cnceleb.org/#portfolio
+
+ 
 ## 24 May 2023
 
 #### DetGPT: Detect What You Need via Reasoning
