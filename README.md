@@ -1,6 +1,37 @@
  # DailyResearchPaper
  
 
+## 30 May 2023
+
+#### FUSECAP: Leveraging Large Language Models to Fuse Visual Data into Enriched Image Captions
+
+- Arxiv : https://arxiv.org/pdf/2305.17718.pdf
+
+- Github : https://rotsteinnoam.github.io/FuseCap/
+
+#### Using Caterpillar to Nibble Small-Scale Images
+
+- Arxiv : https://arxiv.org/pdf/2305.17644.pdf
+
+- Github : https://github.com/sunjin19126/Caterpillar
+
+#### TaleCrafter: Interactive Story Visualization with Multiple Characters
+
+- Arxiv : https://arxiv.org/pdf/2305.18247.pdf
+
+- Github : https://github.com/VideoCrafter/TaleCrafter
+
+#### Contextual Object Detection with Multimodal Large Language Models
+
+- Arxiv : https://arxiv.org/pdf/2305.18279.pdf
+
+- Github : https://github.com/yuhangzang/ContextDET
+
+#### Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory
+
+- Arxiv : https://arxiv.org/pdf/2305.17144.pdf
+
+- Github : https://github.com/OpenGVLab/GITM
 
 ## 29 May 2023
 
