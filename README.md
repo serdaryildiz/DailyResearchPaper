@@ -1,5 +1,19 @@
  # DailyResearchPaper
  
+## 31 May 2023
+
+#### Multi-modal Queried Object Detection in the Wild
+
+- Arxiv : https://arxiv.org/pdf/2305.18980.pdf
+
+- Github : https://github.com/YifanXu74/MQ-Det
+
+
+#### LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding
+
+- Arxiv : https://arxiv.org/pdf/2305.18721.pdf
+
+- Github : -
 
 ## 30 May 2023
 
