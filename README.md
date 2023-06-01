@@ -1,5 +1,31 @@
  # DailyResearchPaper
- 
+
+## 1 Jun 2023
+
+#### LOWA: Localize Objects in the Wild with Attributes
+
+- Arxiv : https://arxiv.org/pdf/2305.20047.pdf
+
+- Github : -
+
+#### GaitGS: Temporal Feature Learning in Granularity and Span Dimension for Gait Recognition
+
+- Arxiv : https://arxiv.org/pdf/2305.19700.pdf
+
+- Github : -
+
+#### Are Large Kernels Better Teachers than Transformers for ConvNets?
+
+- Arxiv : https://arxiv.org/pdf/2305.19412.pdf
+
+- Github : https://github.com/VITA-Group/SLaK
+
+#### A Unified Framework for U-Net Design and Analysis
+
+- Arxiv : https://arxiv.org/pdf/2305.19638.pdf
+
+- Github : -
+
 ## 31 May 2023
 
 #### Multi-modal Queried Object Detection in the Wild
