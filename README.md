@@ -1,5 +1,19 @@
  # DailyResearchPaper
 
+## 5 Jun 2023
+
+#### Towards In-context Scene Understanding
+
+- Arxiv : https://arxiv.org/pdf/2306.01667.pdf
+
+- Github : -
+
+#### Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review
+
+- Arxiv : https://arxiv.org/pdf/2306.01546.pdf
+
+- Github : -
+
 ## 1 Jun 2023
 
 #### LOWA: Localize Objects in the Wild with Attributes
