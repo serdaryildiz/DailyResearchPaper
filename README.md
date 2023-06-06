@@ -1,5 +1,19 @@
  # DailyResearchPaper
 
+## 6 Jun 2023
+
+#### Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation
+
+- Arxiv : https://arxiv.org/pdf/2306.02691.pdf
+
+- Github : https://github.com/wuyongjianCODE/Cyclic
+
+#### Cycle Consistency Driven Object Discovery
+
+- Arxiv : https://arxiv.org/pdf/2306.02204.pdf
+
+- Github : -
+
 ## 5 Jun 2023
 
 #### Towards In-context Scene Understanding
