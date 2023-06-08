@@ -1,4 +1,13 @@
  # DailyResearchPaper
+ 
+## 7 Jun 2023
+
+#### PhenoBench — A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain
+
+- Arxiv : https://arxiv.org/pdf/2306.04557.pdf
+
+- Github : https://www.phenobench.org/dataset.html
+
 
 ## 6 Jun 2023
 
