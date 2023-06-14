@@ -1,5 +1,57 @@
  # DailyResearchPaper
  
+## 14 Jun 2023
+
+#### Image Captioners Are Scalable Vision Learners Too
+
+- Arxiv : https://arxiv.org/pdf/2306.07915.pdf
+
+- Github : -
+
+#### GeneCIS: A Benchmark for General Conditional Image Similarity
+
+- Arxiv : https://arxiv.org/pdf/2306.07969.pdf
+
+- Github : https://github.com/facebookresearch/genecis
+
+#### VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON
+
+- Arxiv : https://arxiv.org/pdf/2306.07890.pdf
+
+- Github : https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets
+
+#### Neural Scene Chronology
+
+- Arxiv : https://arxiv.org/pdf/2306.07970.pdf
+
+- Github : https://zju3dv.github.io/neusc/
+
+#### Semi-supervised learning made simple with self-supervised clustering
+
+- Arxiv : https://arxiv.org/pdf/2306.07483.pdf
+
+- Github : -
+
+#### Retrieve Anyone: A General-purpose Person Re-identification Task with Instructions
+
+- Arxiv : https://arxiv.org/pdf/2306.07520.pdf
+
+- Github : https://github.com/hwz-zju/Instruct-ReID
+
+#### Compositionally Equivariant Representation Learning
+
+- Arxiv : https://arxiv.org/pdf/2306.07783.pdf
+
+- Github : -
+
+#### Reviving Shift Equivariance in Vision Transformers
+
+- Arxiv : https://arxiv.org/pdf/2306.07470.pdf
+
+- Github : -
+
+
+
 ## 7 Jun 2023
 
 #### PhenoBench — A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain
