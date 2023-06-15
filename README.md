@@ -50,6 +50,13 @@
 
 - Github : -
 
+## 13 Jun 2023
+
+#### MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images
+
+- Arxiv : https://arxiv.org/pdf/2306.07257.pdf
+
+- Github : -
 
 
 ## 7 Jun 2023
