@@ -1,5 +1,76 @@
  # DailyResearchPaper
- 
+
+## 19 Jun 2023 
+
+#### Scaling Open-Vocabulary Object Detection
+
+- Arxiv : https://arxiv.org/pdf/2306.09683.pdf
+
+- Github : -
+
+#### Leveraging Human Salience to Improve Calorie Estimation
+
+- Arxiv : https://arxiv.org/pdf/2306.09527.pdf
+
+- Github : -
+
+
+## 16 Jun 2023
+
+#### UNDERSTANDING OPTIMIZATION OF DEEP LEARNING
+
+- Arxiv : https://arxiv.org/pdf/2306.09338.pdf
+
+- Github : -
+
+
+#### When and Why Momentum Accelerates SGD: An Empirical Study
+
+- Arxiv : https://arxiv.org/pdf/2306.09000.pdf
+
+- Github : -
+
+
+#### OCAtari: Object-Centric Atari 2600 Reinforcement Learning Environments
+
+- Arxiv : https://arxiv.org/pdf/2306.08649.pdf
+
+- Github : https://github.com/k4ntz/OC_Atari
+
+
+#### What can a cook in Italy teach a mechanic in India? Action Recognition Generalisation Over Scenarios and Locations
+
+- Arxiv : https://arxiv.org/pdf/2306.08713.pdf
+
+- Github : https://chiaraplizz.github.io/what-can-a-cook/
+
+
+#### TryOnDiffusion: A Tale of Two UNets
+
+- Arxiv : https://arxiv.org/pdf/2306.08276.pdf
+
+- Github : -
+
+
+#### LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models
+
+- Arxiv : https://arxiv.org/pdf/2306.09265.pdf
+
+- Github : -
+
+
+#### DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data
+
+- Arxiv : https://arxiv.org/pdf/2306.09344.pdf
+
+- Github : https://dreamsim-nights.github.io/
+
+#### Fast Training of Diffusion Models with Masked Transformers
+
+- Arxiv : https://arxiv.org/pdf/2306.09305.pdf
+
+- Github : https://github.com/Anima-Lab/MaskDiT
+
 ## 14 Jun 2023
 
 #### Image Captioners Are Scalable Vision Learners Too
