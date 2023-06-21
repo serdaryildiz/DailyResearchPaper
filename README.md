@@ -1,5 +1,43 @@
  # DailyResearchPaper
 
+## 21 Jun 2023 
+
+#### Bullying10K: A Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition
+
+- Arxiv : https://arxiv.org/pdf/2306.11546.pdf
+
+- Github : https://figshare.com/articles/dataset/Bullying10k/19160663
+
+#### How can objects help action recognition?
+
+- Arxiv : https://arxiv.org/pdf/2306.11726.pdf
+
+- Github : -
+
+#### Meerkat Behaviour Recognition Dataset
+
+- Arxiv : https://arxiv.org/pdf/2306.11326.pdf
+
+- Github : -
+
+#### Quilt-1M: One Million Image-Text Pairs for Histopathology
+
+- Arxiv : https://arxiv.org/pdf/2306.11207.pdf
+
+- Github : https://github.com/wisdomikezogwo/quilt1m
+
+#### AVOIDDS: Aircraft Vision-based Intruder Detection Dataset and Simulator
+
+- Arxiv : https://arxiv.org/pdf/2306.11203.pdf
+
+- Github : https://github.com/sisl/VisionBasedAircraftDAA
+
+#### Enlighten-anything:When Segment Anything Model Meets Low-light Image Enhancement
+
+- Arxiv : https://arxiv.org/pdf/2306.10286.pdf
+
+- Github : https://github.com/zhangbaijin/enlighten-anything
+
 ## 19 Jun 2023 
 
 #### Scaling Open-Vocabulary Object Detection
