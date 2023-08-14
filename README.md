@@ -1,5 +1,129 @@
  # DailyResearchPaper
 
+## 14 August 2023 
+
+#### Image-based Geolocalization by Ground-to-2.5D Map Matching
+
+- Arxiv : https://arxiv.org/pdf/2308.05993.pdf
+
+- Github : -
+
+#### The Multi-modality Cell Segmentation Challenge: Towards Universal Solutions
+
+- Arxiv : https://arxiv.org/pdf/2308.05864.pdf
+
+- Github : https://neurips22-cellseg.grand-challenge.org/neurips22-cellseg/
+
+## 11 August 2023 
+
+#### YOLO-MS: Rethinking Multi-Scale Representation Learning for Real-time Object Detection
+
+- Arxiv : https://arxiv.org/pdf/2308.05480.pdf
+
+- Github : https://github.com/FishAndWasabi/YOLO-MS
+
+#### TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization
+
+- Arxiv : https://arxiv.org/pdf/2308.05264.pdf
+
+- Github : https://github.com/vimal-isi-edu/TrainFors
+
+# **Vacation**
+
+
+
+## 10 July 2023 
+
+#### Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
+
+- Arxiv : https://arxiv.org/pdf/2307.03398.pdf
+
+- Github : -
+
+
+#### Vision Language Transformers: A Survey
+
+- Arxiv : https://arxiv.org/pdf/2307.03254.pdf
+
+- Github : -
+
+
+#### To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology
+
+- Arxiv : https://arxiv.org/pdf/2307.03275.pdf
+
+- Github : -
+
+
+#### PseudoCell: Hard Negative Mining as Pseudo Labeling for Deep Learning-Based Centroblast Cell Detection
+
+- Arxiv : https://arxiv.org/pdf/2307.03211.pdf
+
+- Github : https://github.com/IoBT-VISTEC/PseudoCell
+
+## 7 July 2023 
+
+#### Synthesizing Artistic Cinemagraphs from Text
+
+- Arxiv : https://arxiv.org/pdf/2307.03190.pdf
+
+- Github : https://text2cinemagraph.github.io/website/
+
+#### CityTrack: Improving City-Scale Multi-Camera Multi-Target Tracking by Location-Aware Tracking and Box-Grained Matching
+
+- Arxiv : https://arxiv.org/pdf/2307.02753.pdf  
+
+- Github : -
+
+#### Spherical Feature Pyramid Networks For Semantic Segmentation 
+
+- Arxiv : https://arxiv.org/pdf/2307.02658.pdf
+
+- Github : -
+
+#### SegNetr: Rethinking the local-global interactions and skip connections in U-shaped networks
+
+- Arxiv : https://arxiv.org/pdf/2307.02953.pdf
+
+- Github : -
+
+#### LOSS FUNCTIONS AND METRICS IN DEEP LEARNING. A REVIEW
+
+- Arxiv : https://arxiv.org/pdf/2307.02694.pdf
+
+- Github : -
+
+
+## 6 July 2023 
+
+#### Unbalanced Optimal Transport: A Unified Framework for Object Detection
+
+- Arxiv : https://arxiv.org/pdf/2307.02402.pdf
+
+- Github : -
+
+#### Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need
+
+- Arxiv : https://arxiv.org/pdf/2307.02249.pdf
+
+- Github : -
+
+#### MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets
+
+- Arxiv : https://arxiv.org/pdf/2307.02100.pdf
+
+- Github : https://github.com/siyi-wind/MDViT
+
+#### Make A Long Image Short: Adaptive Token Length for Vision Transformers
+
+- Arxiv : https://arxiv.org/pdf/2307.02092.pdf
+
+- Github : -
+
+
+
+
+
 ## 21 Jun 2023 
 
 #### Bullying10K: A Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition
