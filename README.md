@@ -1,5 +1,141 @@
  # DailyResearchPaper
 
+## 17 August 2023 
+
+#### TeCH: Text-guided Reconstruction of Lifelike Clothed Humans
+
+- Arxiv : https://arxiv.org/pdf/2308.08545.pdf
+
+- Github : https://huangyangyi.github.io/tech
+
+#### Diagnosing Human-object Interaction Detectors
+
+- Arxiv : https://arxiv.org/pdf/2308.08529.pdf
+
+- Github : https://github.com/neu-vi/Diag-HOI
+
+#### DeDoDe: Detect, Don’t Describe — Describe, Don’t Detect for Local Feature Matching
+
+- Arxiv : https://arxiv.org/pdf/2308.08479.pdf
+
+- Github : https://github.com/Parskatt/DeDoDe
+
+#### Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval
+
+- Arxiv : https://arxiv.org/pdf/2308.08431.pdf
+
+- Github : https://github.com/vaishwarya96/Hierarchy-image-retrieval
+
+#### ALIP: Adaptive Language-Image Pre-training with Synthetic Caption
+
+- Arxiv : https://arxiv.org/pdf/2308.08428.pdf
+
+- Github : https://github.com/deepglint/ALIP
+
+#### Membrane Potential Batch Normalization for Spiking Neural Networks
+
+- Arxiv : https://arxiv.org/pdf/2308.08359.pdf
+
+- Github : https://github.com/yfguo91/MPBN
+
+#### Visually-Aware Context Modeling for News Image Captioning
+
+- Arxiv : https://arxiv.org/pdf/2308.08325.pdf
+
+- Github : -
+
+#### MultiMediate ’23: Engagement Estimation and Bodily Behaviour Recognition in Social Interactions
+
+- Arxiv : https://arxiv.org/pdf/2308.08256.pdf
+
+- Github : https://multimediate-challenge.org/Description/
+
+#### View Consistent Purification for Accurate Cross-View Localization
+
+- Arxiv : https://arxiv.org/pdf/2308.08110.pdf
+
+- Github : https://shanwang-shan.github.io/PureACL-website/
+
+#### CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation
+
+- Arxiv : https://arxiv.org/pdf/2308.08283.pdf
+
+- Github : -
+
+
+## 16 August 2023 
+
+#### Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition
+
+- Arxiv : https://arxiv.org/pdf/2308.07571.pdf
+
+- Github : https://github.com/OSVAI/Ske2Grid
+
+## 15 August 2023 
+
+#### An Outlook into the Future of Egocentric Vision
+
+- Arxiv : https://arxiv.org/pdf/2308.07123.pdf
+
+- Github : -
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+#### 
+
+- Arxiv : 
+
+- Github : -
+
+
+
 ## 14 August 2023 
 
 #### Image-based Geolocalization by Ground-to-2.5D Map Matching
