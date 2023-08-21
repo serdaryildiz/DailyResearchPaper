@@ -1,5 +1,76 @@
  # DailyResearchPaper
 
+## 21 August 2023 
+
+#### LaRS: A Diverse Panoptic Maritime Obstacle Detection Dataset and Benchmark
+
+- Arxiv : https://arxiv.org/pdf/2308.09618.pdf
+
+- Github : https://lojzezust.github.io/lars-dataset/
+
+
+#### Data augmentation and explainability for bias discovery and mitigation in deep learning
+
+- Arxiv : https://arxiv.org/pdf/2308.09464.pdf
+
+- Github : -
+
+
+#### Flickr Africa: Examining Geo-Diversity in Large-Scale, Human-Centric Visual Data
+
+- Arxiv : https://arxiv.org/pdf/2308.08656.pdf
+
+- Github : -
+
+
+#### Identity-Seeking Self-Supervised Representation Learning for Generalizable Person Re-identification
+
+- Arxiv : https://arxiv.org/pdf/2308.08887.pdf
+
+- Github : https://github.com/dcp15/ISR_ICCV2023_Oral
+
+
+#### Identity-Aware Semi-Supervised Learning for Comic Character Re-Identification
+
+- Arxiv : https://arxiv.org/pdf/2308.09096.pdf
+
+- Github : -
+
+
+#### Generalized Sum Pooling for Metric Learning
+
+- Arxiv : https://arxiv.org/pdf/2308.09228.pdf
+
+- Github : -
+
+
+#### Lip Reading for Low-resource Languages by Learning and Combining General Speech Knowledge and Language-specific Knowledge
+
+- Arxiv : https://arxiv.org/pdf/2308.09311.pdf
+
+- Github : -
+
+
+#### Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers
+
+- Arxiv : https://arxiv.org/pdf/2308.09372.pdf
+
+- Github : -
+
+
+#### Language-Guided Diffusion Model for Visual Grounding
+
+- Arxiv : https://arxiv.org/pdf/2308.09599.pdf
+
+- Github : https://github.com/iQua/vgbase/tree/DiffusionVG
+
+#### GeoDTR+: Toward generic cross-view geolocalization via geometric disentanglement
+
+- Arxiv : https://arxiv.org/pdf/2308.09624.pdf
+
+- Github : -
+
+
 ## 17 August 2023 
 
 #### TeCH: Text-guided Reconstruction of Lifelike Clothed Humans
