@@ -1,5 +1,68 @@
  # DailyResearchPaper
 
+## 22 August 2023 
+
+#### Can Language Models Learn to Listen?
+
+- Arxiv : https://arxiv.org/pdf/2308.10897.pdf
+
+- Github : -
+
+#### EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition
+
+- Arxiv : https://arxiv.org/pdf/2308.10832.pdf
+
+- Github : https://github.com/gmberton/EigenPlaces
+
+#### A step towards understanding why classification helps regression
+
+- Arxiv : https://arxiv.org/pdf/2308.10603.pdf
+
+- Github : -
+
+#### GaitPT: Skeletons Are All You Need For Gait Recognition
+
+- Arxiv : https://arxiv.org/pdf/2308.10623.pdf
+
+- Github : -
+
+#### Exploring Fine-Grained Representation and Recomposition for Cloth-Changing Person Re-Identification
+
+- Arxiv : https://arxiv.org/pdf/2308.10692.pdf
+
+- Github : -
+
+#### Color Prompting for Data-Free Continual Unsupervised Domain Adaptive Person Re-Identification
+
+- Arxiv : https://github.com/vimar-gu/ColorPromptReID
+
+- Github : -
+
+#### Rethinking Person Re-identification from a Projection-on-Prototypes Perspective
+
+- Arxiv : https://arxiv.org/pdf/2308.10717.pdf
+
+- Github : -
+
+#### Patch Is Not All You Need
+
+- Arxiv : https://arxiv.org/pdf/2308.10729.pdf
+
+- Github : -
+
+#### Noisy-Correspondence Learning for Text-to-Image Person Re-identification
+
+- Arxiv : https://arxiv.org/pdf/2308.09911.pdf
+
+- Github : -
+
+#### Microscopy Image Segmentation via Point and Shape Regularized Data Synthesis
+
+- Arxiv : https://arxiv.org/pdf/2308.09835.pdf
+
+- Github : https://github.com/CJLee94/Points2Image
+
+
 ## 21 August 2023 
 
 #### LaRS: A Diverse Panoptic Maritime Obstacle Detection Dataset and Benchmark
