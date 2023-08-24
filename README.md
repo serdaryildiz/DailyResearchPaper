@@ -1,4 +1,83 @@
  # DailyResearchPaper
+ 
+## 24 August 2023 
+
+#### InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4
+
+- Arxiv : https://arxiv.org/pdf/2308.12067.pdf
+
+- Github : -
+
+#### SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation
+
+- Arxiv : https://arxiv.org/pdf/2308.12231.pdf
+
+- Github : https://github.com/xq141839/SPPNet
+
+#### Weakly Supervised Face and Whole Body Recognition in Turbulent Environments
+
+- Arxiv : https://arxiv.org/pdf/2308.11757.pdf
+
+- Github : https://git.unl.edu/ece-unl-images-lab/recognition-in-turbulent-environments
+
+#### Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification
+
+- Arxiv : https://arxiv.org/pdf/2308.11901.pdf
+
+- Github : https://cvlab.yonsei.ac.kr/projects/CaCL/
+
+#### Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval
+
+- Arxiv : https://arxiv.org/pdf/2308.11994.pdf
+
+- Github : -
+
+#### HarvestNet: A Dataset for Detecting Smallholder Farming Activity Using Harvest Piles and Remote Sensing
+
+- Arxiv : https://arxiv.org/pdf/2308.12061.pdf
+
+- Github : https://figshare.com/s/45a7b45556b90a9a11d2
+
+#### The TYC Dataset for Understanding Instance-Level Semantics and Motions of Cells in Microstructures
+
+- Arxiv : https://arxiv.org/pdf/2308.12116.pdf
+
+- Github : https://christophreich1996.github.io/tyc_dataset/
+
+
+## 23 August 2023 
+
+#### Classification of the lunar surface pattern by AI architectures: Does AI see a rabbit in the Moon?
+
+- Arxiv : https://arxiv.org/pdf/2308.11107.pdf
+
+- Github : -
+
+#### SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection
+
+- Arxiv : https://arxiv.org/pdf/2308.11159.pdf
+
+- Github : https://github.com/DalongZ/SwinV2DNet
+
+#### A three in one bottom-up framework for simultaneous semantic segmentation, instance segmentation and classification of multi-organ nuclei in digital cancer histology
+
+- Arxiv : https://arxiv.org/pdf/2308.11179.pdf
+
+- Github : -
+
+#### DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment
+
+- Arxiv : https://arxiv.org/pdf/2308.11206.pdf
+
+- Github : -
+
+#### Using and Abusing Equivariance
+
+- Arxiv : https://arxiv.org/pdf/2308.11316.pdf
+
+- Github : -
+
+
 
 ## 22 August 2023 
 
