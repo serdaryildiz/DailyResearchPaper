@@ -1,5 +1,31 @@
  # DailyResearchPaper
  
+ ## 25 August 2023 
+
+#### With a Little Help from your own Past: Prototypical Memory Networks for Image Captioning
+
+- Arxiv : https://arxiv.org/pdf/2308.12383.pdf
+
+- Github : https://github.com/aimagelab/PMA-Net
+
+#### Ground-to-Aerial Person Search: Benchmark Dataset and Approach
+
+- Arxiv : https://arxiv.org/pdf/2308.12712.pdf
+
+- Github : https://github.com/yqc123456/HKD_for_person_search
+
+#### LISTER: Neighbor Decoding for Length-Insensitive Scene Text Recognition 
+
+- Arxiv : https://arxiv.org/pdf/2308.12774.pdf
+
+- Github : https://github.com/AlibabaResearch/AdvancedLiterateMachinery
+
+#### Beyond Document Page Classification: Design, Datasets, and Challenges
+
+- Arxiv : https://arxiv.org/pdf/2308.12896.pdf
+
+- Github : -
+
 ## 24 August 2023 
 
 #### InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4
