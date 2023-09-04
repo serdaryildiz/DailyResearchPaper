@@ -1,5 +1,44 @@
  # DailyResearchPaper
  
+## 4 September 2023 
+
+#### DARC: Distribution-Aware Re-Coloring Model for Generalizable Nucleus Segmentation
+
+- Arxiv : https://arxiv.org/pdf/2309.00188.pdf
+
+- Github : https://github.com/csccsccsccsc/DARC
+
+#### Diffusion Model with Clustering-based Conditioning for Food Image Generation
+
+- Arxiv : https://arxiv.org/pdf/2309.00199.pdf
+
+- Github : -
+
+#### Object-Centric Multiple Object Tracking
+
+- Arxiv : https://arxiv.org/pdf/2309.00233.pdf
+
+- Github : https://github.com/amazon-science/object-centric-multiple-object-tracking
+
+#### Fine-grained Recognition with Learnable Semantic Data Augmentation
+
+- Arxiv : https://arxiv.org/pdf/2309.00399.pdf
+
+- Github : -
+
+#### An Improved Encoder-Decoder Framework for Food Energy Estimation
+
+- Arxiv : https://arxiv.org/pdf/2309.00468.pdf
+
+- Github : -
+
+#### TIME SERIES ANALYSIS OF URBAN LIVEABILITY
+
+- Arxiv : https://arxiv.org/pdf/2309.00594.pdf
+
+- Github : -
+
+
  ## 25 August 2023 
 
 #### With a Little Help from your own Past: Prototypical Memory Networks for Image Captioning
