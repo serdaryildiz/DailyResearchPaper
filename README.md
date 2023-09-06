@@ -1,5 +1,74 @@
  # DailyResearchPaper
  
+## 6 September 2023 
+
+#### Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification
+
+- Arxiv : https://arxiv.org/pdf/2309.01420.pdf
+
+- Github : https://github.com/ZhiyinShao-H/UniPT
+
+#### DeViL: Decoding Vision features into Language
+
+- Arxiv : https://arxiv.org/pdf/2309.01617.pdf
+
+- Github : https://github.com/ExplainableML/DeViL
+
+#### Prompt me a Dataset: An investigation of text-image prompting for historical image dataset creation using foundation models
+
+- Arxiv : https://arxiv.org/pdf/2309.01674.pdf
+
+- Github : https://github.com/hassanhajj910/prompt-me-a-dataset
+
+#### Towards Universal Image Embeddings: A Large-Scale Dataset and Challenge for Generic Image Representations
+
+- Arxiv : https://arxiv.org/pdf/2309.01858.pdf
+
+- Github : https://cmp.felk.cvut.cz/univ_emb/
+
+#### SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection
+
+- Arxiv : https://arxiv.org/pdf/2309.01907.pdf
+
+- Github : https://github.com/JTRNEO/SyntheWorld
+
+#### NICE 2023 Zero-shot Image Captioning Challenge
+
+- Arxiv : https://arxiv.org/pdf/2309.01961.pdf
+
+- Github : https://nice.lgresearch.ai/
+
+#### A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking
+
+- Arxiv : https://arxiv.org/pdf/2309.02031.pdf
+
+- Github : -
+
+#### DCP-Net: A Distributed Collaborative Perception Network for Remote Sensing Semantic Segmentation
+
+- Arxiv : https://arxiv.org/pdf/2309.02230.pdf
+
+- Github : -
+
+#### Haystack: A Panoptic Scene Graph Dataset to Evaluate Rare Predicate Classes
+
+- Arxiv : https://arxiv.org/pdf/2309.02286.pdf
+
+- Github : https://lorjul.github.io/haystack/
+
+#### Muti-Stage Hierarchical Food Classification
+
+- Arxiv : https://arxiv.org/pdf/2309.01075.pdf
+
+- Github : -
+
+#### Prototype-based Dataset Comparison
+
+- Arxiv : https://arxiv.org/pdf/2309.02401.pdf
+
+- Github : https://github.com/Nanne/ProtoSim
+
+
 ## 4 September 2023 
 
 #### DARC: Distribution-Aware Re-Coloring Model for Generalizable Nucleus Segmentation
