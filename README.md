@@ -2,6 +2,21 @@
  
 ## 6 September 2023 
 
+#### My Art My Choice: Adversarial Protection Against Unruly AI
+
+- Arxiv : https://arxiv.org/pdf/2309.03198.pdf
+
+- Github : -
+
+#### Do We Still Need Non-Maximum Suppression? Accurate Confidence Estimates and Implicit Duplication Modeling with IoU-Aware Calibration
+
+- Arxiv : https://arxiv.org/pdf/2309.03110.pdf
+
+- Github : -
+
+ 
+## 6 September 2023 
+
 #### Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification
 
 - Arxiv : https://arxiv.org/pdf/2309.01420.pdf
