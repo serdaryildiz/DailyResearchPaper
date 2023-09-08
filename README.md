@@ -1,6 +1,32 @@
  # DailyResearchPaper
  
-## 6 September 2023 
+## 8 September 2023 
+
+#### Region Generation and Assessment Network for Occluded Person Re-Identification
+
+- Arxiv : https://arxiv.org/pdf/2309.03558.pdf
+
+- Github : -
+ 
+#### RepSGG: Novel Representations of Entities and Relationships for Scene Graph Generation
+
+- Arxiv : https://arxiv.org/pdf/2309.03240.pdf
+
+- Github : -
+
+#### Better Practices for Domain Adaptation
+
+- Arxiv : https://arxiv.org/pdf/2309.03879.pdf
+
+- Github : -
+
+#### Anatomy-informed Data Augmentation for Enhanced Prostate Cancer Detection
+
+- Arxiv : https://arxiv.org/pdf/2309.03652.pdf
+
+- Github : https://github.com/MIC-DKFZ/anatomy_informed_DA
+
+## 7 September 2023 
 
 #### My Art My Choice: Adversarial Protection Against Unruly AI
 
