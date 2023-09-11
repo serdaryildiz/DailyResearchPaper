@@ -1,5 +1,19 @@
  # DailyResearchPaper
- 
+ ## 11 September 2023 
+
+#### Long-Range Correlation Supervision for Land-Cover Classification from Remote Sensing Images
+
+- Arxiv : https://arxiv.org/pdf/2309.04225.pdf
+
+- Github : -
+
+#### WiSARD: A Labeled Visual and Thermal Image Dataset for Wilderness Search and Rescue
+
+- Arxiv : https://arxiv.org/pdf/2309.04453.pdf
+
+- Github : https://sites.google.com/uw.edu/wisard/
+
+  
 ## 8 September 2023 
 
 #### Region Generation and Assessment Network for Occluded Person Re-Identification
