@@ -1,5 +1,25 @@
  # DailyResearchPaper
- ## 11 September 2023 
+
+
+## 12 September 2023 
+
+####  OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data
+- Arxiv : https://arxiv.org/pdf/2309.05551.pdf
+
+- Github : https://github.com/aimagelab/open-fashion-clip
+
+####  BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification
+- Arxiv : https://arxiv.org/pdf/2309.04675.pdf
+
+- Github : -
+
+####  Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color
+- Arxiv : https://arxiv.org/pdf/2309.05148.pdf
+
+- Github : -
+
+
+## 11 September 2023 
 
 #### Long-Range Correlation Supervision for Land-Cover Classification from Remote Sensing Images
 
