@@ -1,5 +1,44 @@
  # DailyResearchPaper
 
+## 20 September 2023 
+
+#### Exploring Different Levels of Supervision for Detecting and Localizing Solar Panels on Remote Sensing Imagery
+- Arxiv : https://arxiv.org/pdf/2309.10421.pdf
+
+- Github : -
+
+
+#### Human Gait Recognition using Deep Learning: A Comprehensive Review
+- Arxiv : https://arxiv.org/pdf/2309.10144.pdf
+
+- Github : -
+
+## 19 September 2023 
+
+#### EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding
+- Arxiv : https://arxiv.org/pdf/2309.08816.pdf
+
+- Github : https://github.com/facebookresearch/EgoObjects
+
+#### Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-free One-Stage Detectors
+- Arxiv : https://arxiv.org/pdf/2309.08771.pdf
+
+- Github : https://github.com/caiyancheng/BFDA
+
+#### IMPROVED BREAST CANCER DIAGNOSIS THROUGH TRANSFER LEARNING ON HEMATOXYLIN AND EOSIN STAINED HISTOLOGY IMAGES
+- Arxiv : https://arxiv.org/pdf/2309.08745.pdf
+
+- Github : https://www.bracs.icar.cnr.it/
+
+#### Personalized Food Image Classification: Benchmark Datasets and New Baseline
+- Arxiv : https://arxiv.org/pdf/2309.08744.pdf
+
+- Github : https://skynet.ecn.purdue.edu/~pan161/dataset_personal.html
+
+#### MONITORING URBAN CHANGES IN MARIUPOL/UKRAINE IN 2022/23
+- Arxiv : https://arxiv.org/pdf/2309.08607.pdf
+
+- Github : https://github.com/It4innovations/urban_change_monitoring_mariupol_ua
 
 ## 12 September 2023 
 
