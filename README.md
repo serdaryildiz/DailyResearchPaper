@@ -1,5 +1,13 @@
  # DailyResearchPaper
 
+## 21 September 2023 
+
+####  A SYSTEMATIC REVIEW OF FEW-SHOT LEARNING IN MEDICAL IMAGING
+- Arxiv : https://arxiv.org/pdf/2309.11433.pdf
+
+- Github : -
+
+
 ## 20 September 2023 
 
 #### Exploring Different Levels of Supervision for Detecting and Localizing Solar Panels on Remote Sensing Imagery
@@ -39,6 +47,28 @@
 - Arxiv : https://arxiv.org/pdf/2309.08607.pdf
 
 - Github : https://github.com/It4innovations/urban_change_monitoring_mariupol_ua
+
+## 18 September 2023 
+
+####  Double Domain Guided Real-Time Low-Light Image Enhancement for Ultra-High-Definition Transportation Surveillance
+- Arxiv : https://arxiv.org/pdf/2309.08382.pdf
+
+- Github : https://github.com/QuJX/DDNet
+
+####  Salient Object Detection in Optical Remote Sensing Images Driven by Transformer
+- Arxiv : https://arxiv.org/pdf/2309.08206.pdf
+
+- Github : https://github.com/MathLee/GeleNet
+
+####  Padding Aware Neurons
+- Arxiv : https://arxiv.org/pdf/2309.08048.pdf
+
+- Github : -
+
+####  TOWARDS LARGE-SCALE BUILDING ATTRIBUTE MAPPING USING CROWDSOURCED IMAGES: SCENE TEXT RECOGNITION ON FLICKR AND PROBLEMS TO BE SOLVED
+- Arxiv : https://arxiv.org/pdf/2309.08042.pdf
+
+- Github : https://github.com/ya0-sun/STR-Berlin
 
 ## 12 September 2023 
 
