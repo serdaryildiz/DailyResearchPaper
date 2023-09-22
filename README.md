@@ -1,5 +1,18 @@
  # DailyResearchPaper
 
+## 22 September 2023 
+
+####  SANPO A SCENE UNDERSTANDING, ACCESSIBILITY, NAVIGATION, PATHFINDING, OBSTACLE AVOIDANCE DATASET
+- Arxiv : https://arxiv.org/pdf/2309.12172.pdf
+
+- Github : https://google-research-datasets.github.io/sanpo_dataset/
+
+
+####  BASE: Probably a Better Approach to Multi-Object Tracking
+- Arxiv : https://arxiv.org/pdf/2309.12035.pdf
+
+- Github : https://github.com/ffi-no.
+
 ## 21 September 2023 
 
 ####  A SYSTEMATIC REVIEW OF FEW-SHOT LEARNING IN MEDICAL IMAGING
