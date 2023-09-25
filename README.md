@@ -1,5 +1,28 @@
  # DailyResearchPaper
 
+## 25 September 2023 
+
+####  DETECT EVERY THING WITH FEW EXAMPLES
+- Arxiv : https://arxiv.org/pdf/2309.12969.pdf
+
+- Github : https://github.com/mlzxy/devit
+
+####  FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare
+- Arxiv : https://arxiv.org/pdf/2309.12325.pdf
+
+- Github : -
+
+####  Performance Analysis of UNet and Variants for Medical Image Segmentation
+- Arxiv : https://arxiv.org/pdf/2309.13013.pdf
+
+- Github : -
+
+####  DIOR: Dataset for Indoor-Outdoor Reidentification - Long Range 3D/2D Skeleton Gait Collection Pipeline, Semi-Automated Gait Keypoint Labeling and Baseline Evaluation Methods
+- Arxiv : https://arxiv.org/pdf/2309.12429.pdf
+
+- Github : -
+
+
 ## 22 September 2023 
 
 ####  SANPO A SCENE UNDERSTANDING, ACCESSIBILITY, NAVIGATION, PATHFINDING, OBSTACLE AVOIDANCE DATASET
