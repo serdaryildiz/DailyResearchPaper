@@ -1,4 +1,47 @@
  # DailyResearchPaper
+ 
+## 26 September 2023 
+
+####  Multiple Different Explanations for Image Classifiers
+- Arxiv : https://arxiv.org/pdf/2309.14309.pdf
+
+- Github : -
+
+####  Contextual Emotion Estimation from Image Captions
+- Arxiv : https://arxiv.org/pdf/2309.13136.pdf
+
+- Github : https://rosielab.github.io/emotion-captions/
+
+
+####  UniHead: Unifying Multi-Perception for Detection Heads
+- Arxiv : https://arxiv.org/pdf/2309.13242.pdf
+
+- Github : -
+
+
+####  Face-Att: Enhancing Image Captioning with Facial Attributes for Portrait Images
+- Arxiv : https://arxiv.org/pdf/2309.13601.pdf
+
+- Github : https://zenodo.org/record/8144361
+
+
+####  UCF-Crime Annotation: A Benchmark for Surveillance Video-and-Language Understanding
+- Arxiv : https://arxiv.org/pdf/2309.13925.pdf
+
+- Github : https://github.com/Xuange923/UCA-dataset
+
+
+####  Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition
+- Arxiv : https://arxiv.org/pdf/2309.14183.pdf
+
+- Github : https://species-dataset.github.io/
+
+
+####  Single Image Test-Time Adaptation for Segmentation
+- Arxiv : https://arxiv.org/pdf/2309.14052.pdf
+
+- Github : https://klarajanouskova.github.io/sitta-seg/
+
 
 ## 25 September 2023 
 
