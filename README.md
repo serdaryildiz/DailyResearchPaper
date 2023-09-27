@@ -1,5 +1,23 @@
  # DailyResearchPaper
  
+ 
+## 27 September 2023 
+
+####  The Surveillance AI Pipeline
+- Arxiv : https://arxiv.org/pdf/2309.15084.pdf
+
+- Github : -
+
+####  Explaining Deep Face Algorithms through Visualization: A Survey
+- Arxiv : https://arxiv.org/pdf/2309.14715.pdf
+
+- Github : -
+
+####  ENIGMA-51: Towards a Fine-Grained Understanding of Human-Object Interactions in Industrial Scenarios
+- Arxiv : https://arxiv.org/pdf/2309.14809.pdf
+
+- Github : https://iplab.dmi.unict.it/ENIGMA-51/
+
 ## 26 September 2023 
 
 ####  Multiple Different Explanations for Image Classifiers
