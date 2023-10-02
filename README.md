@@ -1,5 +1,31 @@
  # DailyResearchPaper
- 
+  
+## 2 October 2023 
+
+####  HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World
+- Arxiv : https://arxiv.org/pdf/2309.17024.pdf
+
+- Github : https://holoassist.github.io/
+
+####  Scalable Multi-Temporal Remote Sensing Change Data Generation via Simulating Stochastic Change Process
+- Arxiv : https://arxiv.org/pdf/2309.17031.pdf
+
+- Github : https://github.com/Z-Zheng/Changen
+
+####  Retail-786k: a Large-Scale Dataset for Visual Entity Matching
+- Arxiv : https://arxiv.org/pdf/2309.17164.pdf
+
+- Github : https://www.retail-786k.org/
+
+####  TBD Pedestrian Data Collection: Towards Rich, Portable, and Large-Scale Natural Pedestrian Data
+- Arxiv : https://arxiv.org/pdf/2309.17187.pdf
+
+- Github : https://tbd.ri.cmu.edu/resources/tbd-social-navigation-datasets/
+
+####  A Survey on Deep Learning Techniques for Action Anticipation
+- Arxiv : https://arxiv.org/pdf/2309.17257.pdf
+
+- Github : -
  
 ## 27 September 2023 
 
