@@ -1,5 +1,75 @@
  # DailyResearchPaper
-  
+ 
+## 5 October 2023 
+####  Land-cover change detection using paired OpenStreetMap data and optical high-resolution imagery via object-guided Transformer
+- Arxiv : https://arxiv.org/pdf/2310.02674.pdf
+
+- Github : -
+
+####  Human-centric Behavior Description in Videos: New Benchmark and Model
+- Arxiv : https://arxiv.org/pdf/2310.02894.pdf
+
+- Github : -
+
+## 4 October 2023 
+
+####  MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS
+- Arxiv : https://arxiv.org/pdf/2310.02239.pdf
+
+- Github : https://github.com/eric-ai-lab/MiniGPT-5
+
+####  MATHVISTA: EVALUATING MATHEMATICAL REASONING OF FOUNDATION MODELS IN VISUAL CONTEXTS
+- Arxiv : https://arxiv.org/pdf/2310.02255.pdf
+
+- Github : https://mathvista.github.io/
+
+####  DREAM: Visual Decoding from REversing HumAn Visual SysteM
+- Arxiv : https://arxiv.org/pdf/2310.02265.pdf
+
+- Github : -
+
+####  AI-Generated Images as Data Source: The Dawn of Synthetic Era
+- Arxiv : https://arxiv.org/pdf/2310.01830.pdf
+
+- Github : https://github.com/mwxely/AIGS
+
+####  
+- Arxiv : 
+
+- Github : -
+
+####  
+- Arxiv : 
+
+- Github : -
+
+####  
+- Arxiv : 
+
+- Github : -
+
+####  
+- Arxiv : 
+
+- Github : -
+
+####  
+- Arxiv : 
+
+- Github : -
+
+####  
+- Arxiv : 
+
+- Github : -
+
+####  
+- Arxiv : 
+
+- Github : -
+
+
+
 ## 2 October 2023 
 
 ####  HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World
