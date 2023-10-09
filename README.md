@@ -1,5 +1,12 @@
  # DailyResearchPaper
  
+ 
+## 9 October 2023 
+####  ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer
+- Arxiv : https://arxiv.org/pdf/2310.04099.pdf
+
+- Github : -
+
 ## 5 October 2023 
 ####  Land-cover change detection using paired OpenStreetMap data and optical high-resolution imagery via object-guided Transformer
 - Arxiv : https://arxiv.org/pdf/2310.02674.pdf
