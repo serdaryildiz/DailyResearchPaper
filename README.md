@@ -1,5 +1,27 @@
  # DailyResearchPaper
- 
+
+
+## 10 October 2023 
+
+####  Anchor-Intermediate Detector: Decoupling and Coupling Bounding Boxes for Accurate Object Detection
+- Arxiv : https://arxiv.org/pdf/2310.05666.pdf
+
+- Github : https://github.com/YilongLv/AID
+
+####  OV-PARTS: Towards Open-Vocabulary Part Segmentation
+- Arxiv : https://arxiv.org/pdf/2310.05107.pdf
+
+- Github : https://github.com/OpenRobotLab/OV_PARTS
+
+####  AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition
+- Arxiv : https://arxiv.org/pdf/2310.05184.pdf
+
+- Github : https://github.com/Lu-Feng/AANet
+
+####  A Benchmark Dataset for Harmful Object Detection
+- Arxiv : https://arxiv.org/pdf/2310.05192.pdf
+
+- Github : https://github.com/poori-nuna/HOD-Benchmark-Dataset
  
 ## 9 October 2023 
 ####  ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer
