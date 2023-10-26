@@ -1,5 +1,20 @@
  # DailyResearchPaper
 
+## 26 October 2023 
+
+#### ChimpACT: A Longitudinal Dataset for Understanding Chimpanzee Behaviors
+- Arxiv : https://arxiv.org/pdf/2310.16447v1.pdf
+- Github : https://shirleymaxx.github.io/ChimpACT/
+
+#### CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection
+- Arxiv : https://arxiv.org/pdf/2310.16667v1.pdf
+- Github : https://github.com/CVMI-Lab/CoDet
+
+#### Land-cover change detection using paired OpenStreetMap data and optical high-resolution imagery via object-guided Transformer
+- Arxiv : https://arxiv.org/pdf/2310.02674v2.pdf
+- Github : -
+
+# VACATION
 
 ## 10 October 2023 
 
