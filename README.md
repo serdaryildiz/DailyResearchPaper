@@ -1,5 +1,11 @@
  # DailyResearchPaper
+ 
+## 6 November 2023 
 
+#### Medical Image Segmentation with Domain Adaptation: A Survey
+- Arxiv : https://arxiv.org/pdf/2311.01702.pdf
+- Github : -
+- 
 ## 26 October 2023 
 
 #### ChimpACT: A Longitudinal Dataset for Understanding Chimpanzee Behaviors
