@@ -1,5 +1,46 @@
  # DailyResearchPaper
  
+## 7 November 2023 
+
+#### Rethinking Evaluation Metrics of Open-Vocabulary Segmentaion
+- Arxiv : https://arxiv.org/pdf/2311.03352.pdf
+- Github : https://github.com/qqlu/Entity/tree/main
+
+#### PainSeeker: An Automated Method for Assessing Pain in Rats Through Facial Expressions
+- Arxiv : https://arxiv.org/pdf/2311.03205.pdf
+- Github : https://github.com/xhzongyuan/RatsPain
+
+
+#### A survey and classification of face alignment methods based on face models
+- Arxiv : https://arxiv.org/pdf/2311.03082.pdf 
+- Github : -
+
+
+#### Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers
+- Arxiv : https://arxiv.org/pdf/2311.02803.pdf
+- Github : -
+
+
+#### AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection
+- Arxiv : https://arxiv.org/pdf/2311.02733.pdf
+- Github : -
+
+
+#### Dense Video Captioning: A Survey of Techniques, Datasets and Evaluation Protocols
+- Arxiv : https://arxiv.org/pdf/2311.02538.pdf
+- Github : -
+
+
+#### UniTSFace: Unified Threshold Integrated Sample-to-Sample Loss for Face Recognition
+- Arxiv : https://arxiv.org/pdf/2311.02523.pdf
+- Github : https://github.com/CVI-SZU/UniTSFace
+
+
+#### Lost Your Style? Navigating with Semantic-Level Approach for Text-to-Outfit Retrieval
+- Arxiv : https://arxiv.org/pdf/2311.02122.pdf
+- Github : -
+
+
 ## 6 November 2023 
 
 #### Medical Image Segmentation with Domain Adaptation: A Survey
