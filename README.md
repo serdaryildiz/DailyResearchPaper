@@ -1,5 +1,19 @@
  # DailyResearchPaper
  
+## 8 November 2023 
+
+#### Bias and Diversity in Synthetic-based Face Recognition
+- Arxiv : https://arxiv.org/pdf/2311.03970.pdf
+- Github : -
+
+#### Multi-view Information Integration and Propagation for Occluded Person Re-identification
+- Arxiv : https://arxiv.org/pdf/2311.03828.pdf
+- Github : https://github.com/nengdong96/MVIIP
+
+#### Unsupervised Region-Growing Network for Object Segmentation in Atmospheric Turbulence
+- Arxiv : https://arxiv.org/pdf/2311.03572.pdf
+- Github : -
+
 ## 7 November 2023 
 
 #### Rethinking Evaluation Metrics of Open-Vocabulary Segmentaion
