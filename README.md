@@ -1,5 +1,31 @@
  # DailyResearchPaper
  
+## 13 November 2023
+
+#### DIFFUSION MODELS FOR EARTH OBSERVATION USE-CASES: FROM CLOUD REMOVAL TO URBAN CHANGE DETECTION
+- Arxiv : https://arxiv.org/pdf/2311.06222.pdf
+- Github : https://zenodo.org/records/8144238
+
+#### Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization
+- Arxiv : https://arxiv.org/pdf/2311.06224.pdf
+- Github : -
+
+#### Learning Human Action Recognition Representations Without Real Humans
+- Arxiv : https://arxiv.org/pdf/2311.06231.pdf
+- Github : https://github.com/howardzh01/PPMA
+
+#### Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks
+- Arxiv : https://arxiv.org/pdf/2311.06242.pdf  
+- Github : -
+
+#### Whole-body Detection, Recognition and Identification at Altitude and Range
+- Arxiv : https://arxiv.org/pdf/2311.05725.pdf
+- Github : -
+
+#### Are “Hierarchical” Visual Representations Hierarchical?
+- Arxiv : https://arxiv.org/pdf/2311.05784.pdf
+- Github : https://github.com/ethanlshen/HierNet
+
 ## 8 November 2023 
 
 #### Bias and Diversity in Synthetic-based Face Recognition
