@@ -1,5 +1,28 @@
  # DailyResearchPaper
  
+## 14 November 2023
+
+#### Story-to-Motion: Synthesizing Infinite and Controllable Character Animation from Long Text
+- Arxiv : https://arxiv.org/pdf/2303.17368.pdf
+- Github : https://story2motion.github.io/
+
+#### VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search
+- Arxiv : https://arxiv.org/pdf/2311.07514.pdf
+- Github : -
+
+#### Towards Automatic Honey Bee Flower-Patch Assays with Paint Marking Re-Identification
+- Arxiv : https://arxiv.org/pdf/2311.07407.pdf
+- Github : -
+
+#### PICS IN PICS: PHYSICS INFORMED CONTOUR SELECTION FOR RAPID IMAGE SEGMENTATION
+- Arxiv : https://arxiv.org/pdf/2311.07002.pdf
+- Github : -
+
+#### CHATANYTHING: FACETIME CHAT WITH LLM-ENHANCED PERSONAS
+- Arxiv : https://arxiv.org/pdf/2311.06772.pdf
+- Github : https://chatanything.github.io/
+
+
 ## 13 November 2023
 
 #### DIFFUSION MODELS FOR EARTH OBSERVATION USE-CASES: FROM CLOUD REMOVAL TO URBAN CHANGE DETECTION
