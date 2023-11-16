@@ -1,5 +1,31 @@
  # DailyResearchPaper
  
+## 16 November 2023
+
+#### MUDD: A New Re-Identification Dataset with Efficient Annotation for Off-Road Racers in Extreme Conditions
+- Arxiv : https://arxiv.org/pdf/2311.08488.pdf
+- Github : https://github.com/JacobTyo/MUDD
+
+#### LOW-LIGHT PEDESTRIAN DETECTION IN VISIBLE AND INFRARED IMAGE FEEDS: ISSUES AND CHALLENGES
+- Arxiv : https://arxiv.org/pdf/2311.08557.pdf
+- Github : -
+
+#### ConeQuest: A Benchmark for Cone Segmentation on Mars
+- Arxiv : https://arxiv.org/pdf/2311.08657.pdf
+- Github : https://github.com/kerner-lab/ConeQuest
+
+#### Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models
+- Arxiv : https://arxiv.org/pdf/2311.09064.pdf
+- Github : https://systematic-visual-imagination.github.io/
+
+#### Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search
+- Arxiv : https://arxiv.org/pdf/2311.09084.pdf
+- Github : -
+
+#### WildlifeDatasets: An open-source toolkit for animal re-identification
+- Arxiv : https://arxiv.org/pdf/2311.09118.pdf
+- Github : https://github.com/WildlifeDatasets/wildlife-datasets
+
 ## 14 November 2023
 
 #### Story-to-Motion: Synthesizing Infinite and Controllable Character Animation from Long Text
