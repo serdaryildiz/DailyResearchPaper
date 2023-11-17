@@ -1,5 +1,24 @@
  # DailyResearchPaper
  
+ 
+## 17 November 2023
+
+#### RED-DOT: MULTIMODAL FACT-CHECKING VIA RELEVANT EVIDENCE DETECTION
+- Arxiv : https://arxiv.org/pdf/2311.09939.pdf
+- Github : https://github.com/stevejpapad/relevant-evidence-detection
+
+#### Reading Between the Mud: A Challenging Motorcycle Racer Number Dataset
+- Arxiv : https://arxiv.org/pdf/2311.09256.pdf
+- Github : https://github.com/JacobTyo/SwinTextSpotter
+
+#### Devil in the Landscapes: Inferring Epidemic Exposure Risks from Street View Imagery
+- Arxiv : https://arxiv.org/pdf/2311.09240.pdf
+- Github : -
+
+#### RENI++: A Rotation-Equivariant, Scale-Invariant, Natural Illumination Prior
+- Arxiv : https://arxiv.org/pdf/2311.09361.pdf
+- Github : https://github.com/JADGardner/ns_reni
+
 ## 16 November 2023
 
 #### MUDD: A New Re-Identification Dataset with Efficient Annotation for Off-Road Racers in Extreme Conditions
