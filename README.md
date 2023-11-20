@@ -1,5 +1,34 @@
  # DailyResearchPaper
  
+## 20 November 2023
+
+#### BiHRNet: A Binary high-resolution network for Human Pose Estimation
+- Arxiv : https://arxiv.org/pdf/2311.10296.pdf
+- Github : -
+
+#### FRCSyn Challenge at WACV 2024: Face Recognition Challenge in the Era of Synthetic Data
+- Arxiv : https://arxiv.org/pdf/2311.10476.pdf
+- Github : https://frcsyn.github.io/
+
+
+#### SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning
+- Arxiv : https://arxiv.org/pdf/2311.10572.pdf
+- Github : https://github.com/YUE-FAN/SSB
+
+
+#### FOCAL: A Cost-Aware Video Dataset for Active Learning
+- Arxiv : https://arxiv.org/pdf/2311.10591.pdf
+- Github : https://github.com/olivesgatech/FOCAL_Dataset
+
+
+#### CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification
+- Arxiv : https://arxiv.org/pdf/2311.10605.pdf
+- Github : -
+
+
+#### EMU VIDEO: Factorizing Text-to-Video Generation by Explicit Image Conditioning
+- Arxiv : https://arxiv.org/pdf/2311.10709.pdf
+- Github : https://emu-video.metademolab.com/
  
 ## 17 November 2023
 
