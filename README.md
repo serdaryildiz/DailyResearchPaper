@@ -1,5 +1,28 @@
  # DailyResearchPaper
  
+ ## 21 November 2023
+
+#### Multi-Task Faces (MTF) Data Set: A Legally and Ethically Compliant Collection of Face Images for Various Classification Tasks
+- Arxiv : https://arxiv.org/pdf/2311.11882.pdf
+- Github : https://github.com/RamiHaf/MTF_data_set
+
+#### SniffyArt: The Dataset of Smelling Persons
+- Arxiv : https://arxiv.org/pdf/2311.11888.pdf
+- Github : -
+
+#### LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions
+- Arxiv : https://arxiv.org/pdf/2311.11904.pdf
+- Github : https://github.com/zhuole1025/LLMs_as_Visual_Explainers
+
+#### Exchanging Dual Encoder-Decoder: A New Strategy for Change Detection with Semantic Guidance and Spatial Localization
+- Arxiv : https://arxiv.org/pdf/2311.11302.pdf
+- Github : https://github.com/NJU-LHRS/official-SGSLN
+
+#### CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement
+- Arxiv : https://arxiv.org/pdf/2311.11604.pdf
+- Github : https://github.com/npupilab/CurriculumLoc
+
+
 ## 20 November 2023
 
 #### BiHRNet: A Binary high-resolution network for Human Pose Estimation
