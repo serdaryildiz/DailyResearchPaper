@@ -1,5 +1,50 @@
  # DailyResearchPaper
  
+## 29 November 2023
+
+#### LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models
+- Arxiv : https://arxiv.org/pdf/2311.17043.pdf
+- Github : https://github.com/dvlab-research/LLaMA-VID
+
+#### Self-training solutions for the ICCV 2023 GeoNet Challenge
+- Arxiv : https://arxiv.org/pdf/2311.16843.pdf
+- Github : https://github.com/tim-learn/GeoNet23_casia_tim
+
+#### Small and Dim Target Detection in IR Imagery: A Review
+- Arxiv : https://arxiv.org/pdf/2311.16346.pdf
+- Github : -
+
+#### GaitContour: Efficient Gait Recognition based on a Contour-Pose Representation
+- Arxiv : https://arxiv.org/pdf/2311.16497.pdf
+- Github : -
+
+#### Word for Person: Zero-shot Composed Person Retrieval
+- Arxiv : https://arxiv.org/pdf/2311.16515.pdf
+- Github : https://github.com/Delong-liu-bupt/Word4Per
+
+## 28 November 2023
+
+#### Video-based Visible-Infrared Person Re-Identification with Auxiliary Samples
+- Arxiv : https://arxiv.org/pdf/2311.15571.pdf
+- Github : https://github.com/dyhBUPT/BUPTCampus
+
+#### Model-agnostic Body Part Relevance Assessment for Pedestrian Detection
+- Arxiv : https://arxiv.org/pdf/2311.15679.pdf
+- Github : -
+
+#### Optimal Transport Aggregation for Visual Place Recognition
+- Arxiv : https://arxiv.org/pdf/2311.15937.pdf
+- Github : https://github.com/serizba/salad
+
+#### Unleashing the Power of Prompt-driven Nucleus Instance Segmentation
+- Arxiv : https://arxiv.org/pdf/2311.15939.pdf
+- Github : https://github.com/windygoo/PromptNucSeg
+
+#### Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images
+- Arxiv : https://arxiv.org/pdf/2311.16094.pdf
+- Github : https://cuiaiyu.github.io/StreetTryOn/
+
+
  ## 21 November 2023
 
 #### Multi-Task Faces (MTF) Data Set: A Legally and Ethically Compliant Collection of Face Images for Various Classification Tasks
