@@ -1,5 +1,27 @@
  # DailyResearchPaper
  
+## 01 December 2023
+
+#### CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model
+- Arxiv : https://arxiv.org/pdf/2311.18405.pdf
+- Github : https://github.com/zengjianhao/CAT-DM
+
+#### MAXTRON: MASK TRANSFORMER WITH TRAJECTORY ATTENTION FOR VIDEO PANOPTIC SEGMENTATION
+- Arxiv : https://arxiv.org/pdf/2311.18537.pdf
+- Github : https://github.com/TACJu/MaXTron
+
+#### Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images
+- Arxiv : https://arxiv.org/pdf/2311.17960.pdf
+- Github : https://github.com/dair-iitd/Guided-Prompting-SAM
+
+#### Zooming Out on Zooming In: Advancing Super-Resolution for Remote Sensing
+- Arxiv : https://arxiv.org/pdf/2311.18082.pdf
+- Github : https://github.com/allenai/satlas-super-resolution/tree/main
+
+#### Diffusion Models Without Attention
+- Arxiv : https://arxiv.org/pdf/2311.18257.pdf
+- Github : -
+
 ## 29 November 2023
 
 #### LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models
