@@ -1,5 +1,15 @@
  # DailyResearchPaper
  
+## 04 December 2023
+
+#### Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras
+- Arxiv : https://arxiv.org/pdf/2312.00500.pdf
+- Github : -
+
+#### A knowledge-based data-driven (KBDD) framework for all-day identification of cloud types using satellite remote sensing
+- Arxiv : https://arxiv.org/pdf/2312.00308.pdf
+- Github : https://github.com/rsai0/PMD/tree/main/CldNetV1_0_0
+
 ## 01 December 2023
 
 #### CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model
