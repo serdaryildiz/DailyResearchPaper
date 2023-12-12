@@ -1,5 +1,55 @@
  # DailyResearchPaper
  
+## 12 December 2023
+
+#### Photorealistic Video Generation with Diffusion Models
+- Arxiv : https://arxiv.org/pdf/2312.06662.pdf
+- Github : https://walt-video-diffusion.github.io/
+
+#### X2-Softmax: Margin Adaptive Loss Function for Face Recognition
+- Arxiv : https://arxiv.org/pdf/2312.05281.pdf
+- Github : https://github.com/xujiamu123/X2-Softmax/tree/main
+
+#### PIXLORE: A DATASET-DRIVEN APPROACH TO RICH IMAGE CAPTIONING    
+- Arxiv : https://arxiv.org/pdf/2312.05349.pdf
+- Github : https://github.com/diegobonilla98/PixLore?tab=readme-ov-file
+
+#### LOSS FUNCTIONS IN THE ERA OF SEMANTIC SEGMENTATION: A SURVEY AND OUTLOOK
+- Arxiv : https://arxiv.org/pdf/2312.05391.pdf
+- Github : https://github.com/YilmazKadir/Segmentation_Losses
+
+#### Pose Guidance by Supervision: A Framework for Clothes-Changing Person Re-Identification
+- Arxiv : https://arxiv.org/pdf/2312.05634.pdf
+- Github : https://github.com/huyquoctrinh/PGS
+
+#### Open World Object Detection in the Era of Foundation Models
+- Arxiv : https://arxiv.org/pdf/2312.05745.pdf
+- Github : https://orrzohar.github.io/projects/fomo/
+
+#### SSPNet: Scale and spatial priors guided generalizable and interpretable pedestrian attribute recognition
+- Arxiv : https://arxiv.org/pdf/2312.06049.pdf  
+- Github : https://github.com/guotengg/SSPNet
+
+#### MaskConver: Revisiting Pure Convolution Model for Panoptic Segmentation
+- Arxiv : https://arxiv.org/pdf/2312.06052.pdf
+- Github : https://github.com/tensorflow/models/tree/master/official/projects/maskconver
+
+#### CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models
+- Arxiv : https://arxiv.org/pdf/2312.06059.pdf
+- Github : https://conform-diffusion.github.io/
+
+#### NutritionVerse-Synth: An Open Access Synthetically Generated 2D Food Scene Dataset for Dietary Intake Estimation
+- Arxiv : https://arxiv.org/pdf/2312.06192.pdf
+- Github : https://saeejithnair.github.io/nvsynth/
+
+#### Localization Is All You Evaluate: Data Leakage in Online Mapping Datasets and How to Fix It
+- Arxiv : https://arxiv.org/pdf/2312.06420.pdf
+- Github : https://github.com/LiljaAdam/geographical-splits
+
+#### Detecting Events in Crowds Through Changes in Geometrical Dimensions of Pedestrians    
+- Arxiv : https://arxiv.org/pdf/2312.06495.pdf
+- Github : -
+
 ## 04 December 2023
 
 #### Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras
