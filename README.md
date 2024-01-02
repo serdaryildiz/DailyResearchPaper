@@ -1,5 +1,18 @@
  # DailyResearchPaper
  
+## 2 January 2024
+
+#### HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations
+- Arxiv : https://arxiv.org/pdf/2401.00271.pdf
+- Github : https://github.com/HCVLab/HybridGait
+
+#### A Large-Scale Re-identification Analysis in Sporting Scenarios: the Betrayal of Reaching a Critical Point
+- Arxiv : https://arxiv.org/pdf/2401.00080.pdf
+- Github : -
+
+
+# BREAK
+
 ## 12 December 2023
 
 #### Photorealistic Video Generation with Diffusion Models
